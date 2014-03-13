@@ -8409,6 +8409,8 @@ function $RootScopeProvider(){
 
 
     Scope.prototype = {
+      constructor: Scope,
+
       /**
        * @ngdoc function
        * @name ng.$rootScope.Scope#$new

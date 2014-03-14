@@ -1,7 +1,7 @@
 {
   "name": "angular-all-unstable",
   "version": "1.1.5",
-  "main": ["./angular.js", "./angular-cookies.js", "./angular-loader.js", "./angular-mocks.js", "./angular-resource.js", "./angular-sanitize.js", "./angular-scenario.js"],
+  "main": ["./angular.js", "./angular-cookies.js", "./angular-loader.js", "./angular-mocks.js", "./angular-resource.js", "./angular-sanitize.js"],
   "dependencies": {
   }
 }
